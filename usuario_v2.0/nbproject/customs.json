@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "p": {}
+    },
+    "attributes": {
+        "aria-expanded": {
+            "context": "a"
+        }
+    }
+}
